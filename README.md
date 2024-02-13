@@ -7,7 +7,7 @@ Welcome to Aurebesh Transliterator! This web application allows you to translite
 ## Features
 
 - **English to Aurebesh Transliteration**: Convert your English text into Aurebesh, the fictional alphabet from the Star Wars universe.
-- **Aurebesh to English Transliteration**: Convert your Aurebesh text into English..
+- **Aurebesh to English Transliteration**: Convert your Aurebesh text into English.
 - **Star Wars Battlefront II UI Style**: Enjoy the immersive experience of using the same style as the in-game UI from Star Wars Battlefront II (2017).
 - **Easy to Use**: Simply type or paste your English text into the input field, and watch it transform into Aurebesh instantly!
 
