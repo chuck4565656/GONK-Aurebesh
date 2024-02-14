@@ -34,7 +34,7 @@
         font-size: 26px;
         color: #fff;
         position: absolute;
-        left: 24px;
+        right: 401px;
         height: 357px;
         top: 0px;
         background-color: black;
@@ -172,7 +172,7 @@
 
     @font-face {
         font-family: 'Aurebesh';
-        src: url('Aurebesh.ttf') format('truetype');
+        src: url('aurebesh.ttf') format('truetype');
     }
       
     .aurebesh {
