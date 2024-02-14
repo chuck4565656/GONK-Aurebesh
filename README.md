@@ -25,6 +25,6 @@ This project is built using HTML, CSS, and JavaScript. It utilizes the Aurebesh 
 
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository or Download the Source Code from "Releases" to your local machine.
 2. Navigate to the project directory.
 3. Open `aurebesh.html` in your preferred web browser.
