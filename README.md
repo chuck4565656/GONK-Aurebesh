@@ -1,6 +1,6 @@
 # GONK | Aurebesh Transliterator
 
-Welcome to Aurebesh Transliterator! This web application allows you to transliterate English text into Aurebesh, using the UI style from Star Wars Battlefront II (2017) It is optimized for phone, and computer usage.
+Welcome to Aurebesh Transliterator! This web application allows you to transliterate English text into Aurebesh, using the UI style from Star Wars Battlefront II (2017)
 
 ![Aurebesh Transliterator](gnk.jpeg)
 
